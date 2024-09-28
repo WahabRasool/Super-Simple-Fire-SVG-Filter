@@ -1,0 +1,9 @@
+body {
+	background: #100;
+}
+svg {
+	position: absolute;
+	bottom: 0px;
+	left: 50%;
+	transform: translate(-50%);
+}
